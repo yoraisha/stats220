@@ -3,6 +3,11 @@
 ## Meme
 ![my_meme](https://user-images.githubusercontent.com/100745324/158104180-a26d4212-232d-48eb-8d6f-4e68d3a35c61.png)
 
+
+## Information about my meme
+1. My meme is an *adaptation* of an existing meme format of 2 blocks of text annotating 2 images side-by-side.
+2. The motivation for my meme was to **communicate** the idea of having a cool assignment that you look foward to, and actually having to follow through and put in the work to craft something original.
+
 ## Meme R Code
 ```r
 library(magick)
